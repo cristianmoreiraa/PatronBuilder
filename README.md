@@ -24,6 +24,10 @@ classDiagram
 
 ---
 
+# **EXAMEN COD**
+
+---
+
 # - ¿Cuál es la función del PatronBuilder?
 
 El patrón Builder es un patrón de diseño creacional que se utiliza para crear objetos complejos paso a paso y de manera flexible, separando la creación de objetos de su representación. Permite un control detallado sobre el proceso de construcción mediante la definición de una interfaz abstracta que define los métodos para construir cada parte del objeto complejo. Además, proporciona una solución para la creación de objetos con múltiples opciones y configuraciones al permitir la creación de un solo constructor que acepta diferentes parámetros de configuración para construir objetos con diferentes opciones y características.   
